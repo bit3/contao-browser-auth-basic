@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="system/modules/browser-auth/languages/de/tl_page.php" source-language="en" datatype="php" date="2012-11-08T21:49:41+00:00" target-language="de">
+    <body>
+      <trans-unit id="tl_page.browser_auth_basic_realm.0">
+        <source xml:lang="en">Basic realm</source>
+        <target xml:lang="de">Basic Realm</target>
+      </trans-unit>
+      <trans-unit id="tl_page.browser_auth_basic_realm.1">
+        <source xml:lang="en">Please enter the basic realm.</source>
+        <target xml:lang="de">Geben Sie hier den Basic Realm ein.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
